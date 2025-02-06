@@ -1,0 +1,48 @@
+/*for assignment*/
+body {
+    background-color: lightskyblue;
+}
+
+h2 {
+    background-color: purple;
+    color: lightblue
+}
+/*Table styles*/
+.console {
+    background-color: chocolate;
+}
+
+#controller {
+    background-color: cadetblue;
+    text-align: center
+}
+
+.launch-year {
+    background-color: crimson;
+    text-align: center;
+}
+
+table {
+    border: 2px solid;
+}
+/*seperate colors for each controller (not in use)*/
+#Dual1 {
+    background-color: gray;
+    color: white;
+}
+#Dual2 {
+    background-color: lightseagreen;
+    color:lightskyblue
+}
+#Dual3 {
+    background-color: pink;
+    color: rgb(255, 66, 66);
+}
+#Dual4 {
+    background-color: lightcoral;
+    color: beige;
+}
+#Dual5 {
+    background-color: lightblue;
+    color: blue;
+}
