@@ -1,6 +1,6 @@
 /*for assignment*/
 body {
-    background-color: lightskyblue;
+    background-color: lightblue;
 }
 
 h2 {
@@ -25,6 +25,27 @@ h2 {
 table {
     border: 2px solid;
 }
+/*Styles for other html pages (not home page)*/
+div > h1 {
+   color: red;
+   font-size: 40px;
+   font-family: fantasy;
+}
+
+div > h1:hover {
+    color: skyblue;
+}
+
+div > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div > p {
+    text-align: center;
+}
+
 /*seperate colors for each controller (not in use)*/
 #Dual1 {
     background-color: gray;
