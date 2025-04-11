@@ -1,4 +1,4 @@
-/*for assignment*/
+
 body {
     background-color: lightblue;
 }
@@ -46,7 +46,7 @@ div > p {
     text-align: center;
 }
 
-/*seperate colors for each controller (not in use)*/
+/*seperate colors for each controller (in use)*/
 #Dual1 {
     background-color: gray;
     color: white;
